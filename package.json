@@ -1,6 +1,6 @@
 {
   "name": "raylib-python-snippets",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Raylib python Snippets for Atom",
   "keywords": [
     "python",
