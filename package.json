@@ -1,0 +1,15 @@
+{
+  "name": "raylib-python-snippets",
+  "version": "1.0",
+  "description": "Raylib python Snippets for Atom",
+  "keywords": [
+    "python",
+    "raylib",
+    "snippets"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/HamdyElzonqali/raylib-python-snippets-atom",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
